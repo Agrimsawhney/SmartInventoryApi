@@ -1,0 +1,25 @@
+[
+    {
+        "ProductId": "P001",
+        "ProductName": "CopperRod",
+        "Stock": 120,
+        "Price": 500.0
+    },
+    {
+        "ProductId": "P002",
+        "ProductName": "AluminiumSheet",
+        "Stock": 80,
+        "Price": 800.0
+    },
+    {
+        "ProductId": "P001",
+        "ProductName": "boiler",
+        "Stock": 130,
+        "Price": 700.0
+    },
+    {
+        "ProductId": "P002",
+        "ProductName": "Wire Coil",
+        "Stock": 20
+    }
+]
